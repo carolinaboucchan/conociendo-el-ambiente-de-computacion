@@ -1,0 +1,8 @@
+PERMISOS DE DIRECTORIO.
+
+Lectura:
+Permite visualizar el contenido 
+Escritura:
+Permite crear /eliminar archivos y directorio dentro de este directorio.
+Ejecución:
+Permite entrar al directorio
